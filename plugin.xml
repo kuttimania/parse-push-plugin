@@ -95,7 +95,7 @@
 	     <source url="https://github.com/CocoaPods/Specs.git"/>
 	</config>
 	<pods use-frameworks="true">
-	     <pod name="Bolts" git="https://github.com/BoltsFramework/Bolts-ObjC" branch="master" />
+	     <pod name="Bolts" git="https://github.com/BoltsFramework/Bolts-ObjC" branch="main" />
 	</pods>
       </podspec>
    </platform>
